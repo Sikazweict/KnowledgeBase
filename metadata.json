@@ -1,0 +1,6 @@
+{
+  "name": "Axiom Knowledge Core",
+  "description": "An AI-Driven Knowledge Management System (AI-KMS) prototype featuring hybrid semantic search, multi-format document ingestion (PDF, Image OCR), and predictive institutional analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Multimodal Data Ingestion", "AI Knowledge Management", "Semantic Search", "OCR & Entity Extraction"]
+}
